@@ -1,5 +1,5 @@
 {
-  "name": "gulp-remove-code",
+  "name": "@herdwatch/gulp-remove-code",
   "version": "3.0.4",
   "description": "Remove sections of code from files based on conditions",
   "main": "index.js",
