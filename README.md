@@ -1,5 +1,11 @@
 # gulp-remove-code
 
+## Why this fork exists
+
+Forked from [upstream](https://github.com/crissdev/gulp-remove-code) because no behavioural changes found versus upstream — forked to publish under our own npm scope and control the exact source.
+
+Published as [`@herdwatch/gulp-remove-code`](https://www.npmjs.com/package/@herdwatch/gulp-remove-code).
+
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![npm version](https://badge.fury.io/js/gulp-remove-code.svg)](https://badge.fury.io/js/gulp-remove-code)
 [![Build Status](https://travis-ci.org/crissdev/gulp-remove-code.svg?branch=master)](https://travis-ci.org/crissdev/gulp-remove-code)
